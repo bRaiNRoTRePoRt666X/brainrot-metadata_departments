@@ -1,0 +1,236 @@
+{
+  "$schema": "../../metadata/brainrot_schema_v666.json",
+  "name": "Executioner Overlay Pack v666",
+  "description": "Blood-dripping text + obsidian frames that execute boring thumbnails",
+  "version": "6.66",
+  "created_at": "2026-03-31T03:33:33Z",
+  "overlays": [
+    {
+      "id": "EXEC-OVL-001",
+      "name": "The Obsidian Verdict",
+      "text": "EXECUTED FOR MID CONTENT",
+      "font": "Impact",
+      "font_size": 64,
+      "color": "#8B0000",
+      "stroke_color": "#0A0A0A",
+      "stroke_width": 5,
+      "shadow": {
+        "color": "#660066",
+        "blur": 15,
+        "offset_x": 4,
+        "offset_y": 4
+      },
+      "position": "bottom_center",
+      "rotation": -3,
+      "brainrot_level": 666,
+      "executioner": "Obsidian Blade Master"
+    },
+    {
+      "id": "EXEC-OVL-002",
+      "name": "The Glyph Judgment",
+      "text": "THE ALGORITHM HAS BEEN JUDGED",
+      "font": "Arial Black",
+      "font_size": 56,
+      "color": "#FFD700",
+      "stroke_color": "#8B0000",
+      "stroke_width": 4,
+      "shadow": {
+        "color": "#0A0A0A",
+        "blur": 20,
+        "offset_x": 0,
+        "offset_y": 5
+      },
+      "position": "top_center",
+      "rotation": 0,
+      "brainrot_level": 600,
+      "executioner": "Glyph Carver"
+    },
+    {
+      "id": "EXEC-OVL-003",
+      "name": "The 3AM Ritual",
+      "text": "EXECUTED AT 3:33 AM",
+      "font": "Courier New",
+      "font_size": 42,
+      "color": "#660066",
+      "stroke_color": "#0A0A0A",
+      "stroke_width": 2,
+      "shadow": {
+        "color": "#8B0000",
+        "blur": 10,
+        "offset_x": 2,
+        "offset_y": 2
+      },
+      "position": "top_right",
+      "rotation": 5,
+      "brainrot_level": 555,
+      "executioner": "Ritual Drummer"
+    },
+    {
+      "id": "EXEC-OVL-004",
+      "name": "The Mask's Verdict",
+      "text": "YOUR CONTENT HAS BEEN JUDGED",
+      "font": "Times New Roman",
+      "font_size": 48,
+      "color": "#C0C0C0",
+      "stroke_color": "#0A0A0A",
+      "stroke_width": 3,
+      "shadow": {
+        "color": "#660066",
+        "blur": 25,
+        "offset_x": -3,
+        "offset_y": -3
+      },
+      "position": "center",
+      "rotation": 15,
+      "brainrot_level": 666,
+      "executioner": "Mask Bearer"
+    },
+    {
+      "id": "EXEC-OVL-005",
+      "name": "The Pyramid's High Ground",
+      "text": "HIGH GROUND = FINAL JUDGMENT",
+      "font": "Impact",
+      "font_size": 60,
+      "color": "#4A4A4A",
+      "stroke_color": "#FFD700",
+      "stroke_width": 4,
+      "shadow": {
+        "color": "#8B0000",
+        "blur": 15,
+        "offset_x": 4,
+        "offset_y": 4
+      },
+      "position": "bottom_center",
+      "rotation": -5,
+      "brainrot_level": 600,
+      "executioner": "Pyramid Sentinel"
+    },
+    {
+      "id": "EXEC-OVL-006",
+      "name": "Guest 666 Executioner",
+      "text": "GUEST 666 EXECUTES THE MID",
+      "font": "Verdana",
+      "font_size": 52,
+      "color": "#666666",
+      "stroke_color": "#8B0000",
+      "stroke_width": 3,
+      "shadow": {
+        "color": "#660066",
+        "blur": 30,
+        "offset_x": 0,
+        "offset_y": 0
+      },
+      "position": "center",
+      "rotation": 45,
+      "brainrot_level": 666,
+      "executioner": "Guest 666 Executioner"
+    },
+    {
+      "id": "EXEC-OVL-007",
+      "name": "The Sigma Execution",
+      "text": "THE GRINDSET EXECUTES THE MID",
+      "font": "Arial Black",
+      "font_size": 56,
+      "color": "#FFD700",
+      "stroke_color": "#0A0A0A",
+      "stroke_width": 5,
+      "shadow": {
+        "color": "#8B0000",
+        "blur": 20,
+        "offset_x": 3,
+        "offset_y": 3
+      },
+      "position": "top_center",
+      "rotation": -2,
+      "brainrot_level": 555,
+      "executioner": "Sigma Executioner"
+    },
+    {
+      "id": "EXEC-OVL-008",
+      "name": "The Obsidian Blade",
+      "text": "ONE STRIKE ONE VERDICT",
+      "font": "Impact",
+      "font_size": 68,
+      "color": "#C0C0C0",
+      "stroke_color": "#8B0000",
+      "stroke_width": 6,
+      "shadow": {
+        "color": "#0A0A0A",
+        "blur": 25,
+        "offset_x": 5,
+        "offset_y": 5
+      },
+      "position": "bottom_center",
+      "rotation": 0,
+      "brainrot_level": 666,
+      "executioner": "Obsidian Blade Master"
+    }
+  ],
+  "frames": [
+    {
+      "id": "EXEC-FRM-001",
+      "name": "Obsidian Border",
+      "type": "border",
+      "color": "#0A0A0A",
+      "width": 8,
+      "style": "solid",
+      "corners": "sharp",
+      "brainrot_level": 555
+    },
+    {
+      "id": "EXEC-FRM-002",
+      "name": "Blood Drip Frame",
+      "type": "drip",
+      "color": "#8B0000",
+      "drip_count": 6,
+      "style": "organic",
+      "brainrot_level": 600
+    },
+    {
+      "id": "EXEC-FRM-003",
+      "name": "Glyph Border",
+      "type": "glyph",
+      "color": "#FFD700",
+      "glyph_pattern": "executioner_judgment",
+      "style": "ancient",
+      "brainrot_level": 666
+    }
+  ],
+  "presets": {
+    "maximum_execution": {
+      "all_strokes": true,
+      "all_shadows": true,
+      "max_rotation": 45,
+      "chaos_mode": true,
+      "blood_drip": true,
+      "obsidian_border": true
+    },
+    "ritual_judgment": {
+      "all_strokes": true,
+      "all_shadows": true,
+      "max_rotation": 15,
+      "chaos_mode": false,
+      "blood_drip": false,
+      "obsidian_border": true
+    },
+    "guest_666_approved": {
+      "required_colors": ["#666666", "#8B0000", "#660066"],
+      "all_strokes": true,
+      "all_shadows": true,
+      "chaos_mode": true
+    }
+  },
+  "usage_instructions": [
+    "Import this JSON into your thumbnail editor",
+    "Select an executioner overlay preset",
+    "Apply to your mid thumbnail (it will be executed)",
+    "Post at 3AM for maximum ritual power",
+    "Do not check notifications for 66 hours"
+  ],
+  "warnings": [
+    "These overlays execute mid content on sight",
+    "Side effects include: algorithm judgment, normie execution, Guest 666 appearances",
+    "Not responsible for spontaneous shadow bans",
+    "The obsidian remembers every strike"
+  ]
+}

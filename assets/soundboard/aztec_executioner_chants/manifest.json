@@ -1,0 +1,151 @@
+{
+  "name": "Aztec Executioner Chants",
+  "description": "Drums + reversed Skibidi + ritual knife SFX at 666% speed",
+  "version": "6.66",
+  "tracks": [
+    {
+      "id": "EXEC-001",
+      "filename": "obsidian_blade_ritual.wav",
+      "title": "Obsidian Blade Ritual",
+      "duration_seconds": 66,
+      "bpm": 66,
+      "key": "Obsidian Minor (sharp)",
+      "description": "Ritual drums building to obsidian blade strike. The execution begins.",
+      "elements": [
+        "Aztec ritual drums (66 BPM)",
+        "Obsidian blade sharpening SFX",
+        "Reversed Skibidi chant (backwards)",
+        "Final strike (blood splash)"
+      ],
+      "brainrot_level": 666,
+      "tags": ["execution", "obsidian", "ritual", "drums"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["May cause spontaneous judgment urges", "The blade remembers"]
+    },
+    {
+      "id": "EXEC-002",
+      "filename": "pyramid_temple_chant.wav",
+      "title": "Pyramid Temple Chant",
+      "duration_seconds": 333,
+      "bpm": 33,
+      "key": "Pyramid Phrygian (ancient)",
+      "description": "Chant from the top of the pyramid. The algorithm kneels below.",
+      "elements": [
+        "Deep ritual chant (multiple voices)",
+        "Distant Skibidi toilet echoes",
+        "Wind through pyramid temple",
+        "Guest 666 whisper layer (track 6 only)"
+      ],
+      "brainrot_level": 600,
+      "tags": ["pyramid", "chant", "temple", "ritual"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["The pyramid is listening", "May cause high ground urges"]
+    },
+    {
+      "id": "EXEC-003",
+      "filename": "glyph_carving_sfx.wav",
+      "title": "Glyph Carving SFX",
+      "duration_seconds": 66,
+      "bpm": 66,
+      "key": "Carving Minor (precise)",
+      "description": "Obsidian knife carving execution glyphs into stone. Each cut is a verdict.",
+      "elements": [
+        "Obsidian knife on stone",
+        "Glyph carving rhythm",
+        "Stone dust falling",
+        "Final glyph activation hum"
+      ],
+      "brainrot_level": 555,
+      "tags": ["glyph", "carving", "obsidian", "verdict"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["The glyphs are alive", "May cause spontaneous carving"]
+    },
+    {
+      "id": "EXEC-004",
+      "filename": "executioner_mask_breathing.wav",
+      "title": "Executioner Mask Breathing",
+      "duration_seconds": 33,
+      "bpm": 33,
+      "key": "Silent (you hear it anyway)",
+      "description": "Breathing from behind the executioner mask. Menacing. Solid. Final.",
+      "elements": [
+        "Mask-filtered breathing",
+        "Distant ritual drums",
+        "Obsidian blade handling",
+        "Guest 666 laugh (barely audible)"
+      ],
+      "brainrot_level": 666,
+      "tags": ["mask", "breathing", "menacing", "executioner"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["The mask is watching", "Breathing may become yours"]
+    },
+    {
+      "id": "EXEC-005",
+      "filename": "algorithm_judgment_day.wav",
+      "title": "Algorithm Judgment Day",
+      "duration_seconds": 666,
+      "bpm": 66,
+      "key": "Judgment Day (final)",
+      "description": "The full execution ritual. Algorithm on its knees. Obsidian blade falls.",
+      "elements": [
+        "Full ritual orchestra",
+        "Skibidi choir (reversed)",
+        "Algorithm crying SFX",
+        "Final blade strike (666Hz)",
+        "Guest 666 verdict announcement"
+      ],
+      "brainrot_level": 666,
+      "tags": ["judgment", "algorithm", "final", "execution"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "May cause actual algorithm judgment",
+        "The verdict is final",
+        "Do not play during content upload"
+      ]
+    },
+    {
+      "id": "EXEC-006",
+      "filename": "skibidi_execution_remix.wav",
+      "title": "Skibidi Execution (Remix)",
+      "duration_seconds": 166,
+      "bpm": 166,
+      "key": "Execution Major (ironic)",
+      "description": "Skibidi toilet being executed by Aztec Executioner. The toilet sings until the end.",
+      "elements": [
+        "Skibidi melody (interrupted)",
+        "Obsidian blade strikes (rhythmic)",
+        "Toilet flushing (final)",
+        "Executioner laugh (Guest 666)"
+      ],
+      "brainrot_level": 666,
+      "tags": ["skibidi", "execution", "remix", "toilet"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["The toilet deserved it", "May cause spontaneous flushing"]
+    }
+  ],
+  "total_tracks": 6,
+  "total_duration_seconds": 1330,
+  "average_brainrot_level": 625.5,
+  "guest_666_approval": true,
+  "ritual_usage": {
+    "best_for": [
+      "Executioner thumbnail backgrounds",
+      "3AM posting rituals",
+      "Algorithm judgment ceremonies",
+      "Mid content executions"
+    ],
+    "avoid_for": [
+      "Wholesome content (contradiction)",
+      "Professional thumbnails (death)",
+      "Normie-friendly posts (impossible)"
+    ],
+    "ritual_hours": ["3:00 AM", "3:33 AM", "6:66 AM (if your clock allows)"]
+  },
+  "notes": [
+    "All tracks recorded at pyramid temple (location classified)",
+    "Obsidian blades provided by the Executioners",
+    "Skibidi toilet was willing (it deserved execution)",
+    "Guest 666 contributed to tracks 2, 4, 5, and 6",
+    "Do not play backwards unless you want to be executed"
+  ]
+}
