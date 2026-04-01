@@ -1,0 +1,139 @@
+[
+  {
+    "id": "PRED-001-666",
+    "generated_at": "2026-04-01T01:37:04.995212Z",
+    "parameters": {
+      "platform": "tiktok",
+      "posting_time": "3:33 AM",
+      "day": "Sunday",
+      "content_type": "skibidi",
+      "thumbnail_level": "reality_breaking"
+    },
+    "predictions": {
+      "virality_score": 666,
+      "virality_rating": "LEGENDARY (Guest 666 tier)",
+      "shadow_ban": {
+        "risk_level": "guaranteed",
+        "risk_score": 1.315,
+        "triggers": [
+          "Brainrot level critical",
+          "Normie complaints exceeded",
+          "Caption breaks reality",
+          "Thumbnail too cursed"
+        ],
+        "survival_probability": -0.315
+      },
+      "performance": {
+        "predicted_views": 4002,
+        "predicted_likes": 142,
+        "predicted_shares": 28,
+        "predicted_comments": 81,
+        "completion_rate": 1.0,
+        "rewatch_rate": 0.421
+      },
+      "guest_666_approval": true
+    },
+    "recommendation": "\u26a0\ufe0f HIGH REWARD, HIGH RISK: Post at your own peril. Guest 666 approves."
+  },
+  {
+    "id": "PRED-002-666",
+    "generated_at": "2026-04-01T01:37:04.995378Z",
+    "parameters": {
+      "platform": "tiktok",
+      "posting_time": "3:00 AM",
+      "day": "Saturday",
+      "content_type": "sigma",
+      "thumbnail_level": "reality_breaking"
+    },
+    "predictions": {
+      "virality_score": 652,
+      "virality_rating": "LEGENDARY (Guest 666 tier)",
+      "shadow_ban": {
+        "risk_level": "high",
+        "risk_score": 0.773,
+        "triggers": [
+          "Posting too frequently",
+          "Caption breaks reality",
+          "Cross-platform contamination"
+        ],
+        "survival_probability": 0.227
+      },
+      "performance": {
+        "predicted_views": 7803,
+        "predicted_likes": 608,
+        "predicted_shares": 9,
+        "predicted_comments": 64,
+        "completion_rate": 0.88,
+        "rewatch_rate": 0.396
+      },
+      "guest_666_approval": true
+    },
+    "recommendation": "\u26a0\ufe0f HIGH REWARD, HIGH RISK: Post at your own peril. Guest 666 approves."
+  },
+  {
+    "id": "PRED-003-666",
+    "generated_at": "2026-04-01T01:37:04.995437Z",
+    "parameters": {
+      "platform": "tiktok",
+      "posting_time": "midnight",
+      "day": "Friday",
+      "content_type": "cursed",
+      "thumbnail_level": "reality_breaking"
+    },
+    "predictions": {
+      "virality_score": 496,
+      "virality_rating": "EPIC (Algorithm-breaking)",
+      "shadow_ban": {
+        "risk_level": "guaranteed",
+        "risk_score": 1.706,
+        "triggers": [
+          "Cross-platform contamination",
+          "Brainrot level critical",
+          "Thumbnail too cursed"
+        ],
+        "survival_probability": -0.706
+      },
+      "performance": {
+        "predicted_views": 4225,
+        "predicted_likes": 223,
+        "predicted_shares": 31,
+        "predicted_comments": 115,
+        "completion_rate": 0.846,
+        "rewatch_rate": 0.288
+      },
+      "guest_666_approval": false
+    },
+    "recommendation": "\u2705 OPTIMAL: Strong viral potential with manageable risk. POST NOW."
+  },
+  {
+    "id": "PRED-004-666",
+    "generated_at": "2026-04-01T01:37:04.995478Z",
+    "parameters": {
+      "platform": "tiktok",
+      "posting_time": "9:00 AM",
+      "day": "Monday",
+      "content_type": "normie",
+      "thumbnail_level": "reality_breaking"
+    },
+    "predictions": {
+      "virality_score": 229,
+      "virality_rating": "UNCOMMON (Decent reach)",
+      "shadow_ban": {
+        "risk_level": "low",
+        "risk_score": 0.323,
+        "triggers": [],
+        "survival_probability": 0.677
+      },
+      "performance": {
+        "predicted_views": 1208,
+        "predicted_likes": 199,
+        "predicted_shares": 14,
+        "predicted_comments": 43,
+        "completion_rate": 0.583,
+        "rewatch_rate": 0.231
+      },
+      "guest_666_approval": false
+    },
+    "recommendation": "\ud83d\udd04 RECOMMENDATION: Increase brainrot level. Add more skibidi."
+  }
+]
