@@ -1,0 +1,122 @@
+{
+  "name": "Character Voice Lines",
+  "description": "Each fictional character gets their own cursed voice pack",
+  "version": "6.66",
+  "source": "https://grok.com/share/c2hhcmQtMw_4c8a1904-2ca6-4f09-a28b-74217821f4f8",
+  "status": "AWAITING CHARACTER INJECTION",
+  
+  "instructions": "Copy characters from the Grok share, then generate voice lines for each character using AI voice synthesis. Each character gets 3-8 signature lines.",
+  
+  "character_slots": [
+    {
+      "slot": "character_01",
+      "name": "[PASTE FROM GROK SHARE]",
+      "voice_actor": "TBD",
+      "tracks": [],
+      "status": "AWAITING INJECTION"
+    },
+    {
+      "slot": "character_02",
+      "name": "[PASTE FROM GROK SHARE]",
+      "voice_actor": "TBD",
+      "tracks": [],
+      "status": "AWAITING INJECTION"
+    },
+    {
+      "slot": "character_03",
+      "name": "[PASTE FROM GROK SHARE]",
+      "voice_actor": "TBD",
+      "tracks": [],
+      "status": "AWAITING INJECTION"
+    },
+    {
+      "slot": "joker_brainrot",
+      "name": "The Joker (Brainrot Variant)",
+      "voice_actor": "Purple-gloved chaos gremlin",
+      "tracks": [
+        {
+          "id": "JOKER-VL-001",
+          "filename": "why_so_serious.wav",
+          "title": "Why So Serious?",
+          "duration_seconds": 3,
+          "transcript": "Why... so... serious?",
+          "emotion": "Manic whisper",
+          "brainrot_level": 666,
+          "tags": ["joker", "iconic", "whisper", "chaos"]
+        },
+        {
+          "id": "JOKER-VL-002",
+          "filename": "ha_ha_ha_ha_ha.wav",
+          "title": "The Laughter",
+          "duration_seconds": 5,
+          "transcript": "HA HA HA HA HA!",
+          "emotion": "Escalating manic laughter",
+          "brainrot_level": 666,
+          "tags": ["laughter", "manic", "iconic", "chaos"]
+        },
+        {
+          "id": "JOKER-VL-003",
+          "filename": "its_all_a_joke.wav",
+          "title": "It's All a Joke",
+          "duration_seconds": 4,
+          "transcript": "It's all... a joke.",
+          "emotion": "Philosophical madness",
+          "brainrot_level": 555,
+          "tags": ["philosophy", "madness", "joke"]
+        },
+        {
+          "id": "JOKER-VL-004",
+          "filename": "put_a_smile_on_that.wav",
+          "title": "Put a Smile on That",
+          "duration_seconds": 4,
+          "transcript": "Let's put a smile on that algorithm!",
+          "emotion": "Menacing cheerfulness",
+          "brainrot_level": 600,
+          "tags": ["threat", "cheerful", "algorithm"]
+        },
+        {
+          "id": "JOKER-VL-005",
+          "filename": "666_percent_chaos.wav",
+          "title": "666% Chaos",
+          "duration_seconds": 3,
+          "transcript": "666% chaos... 0% mercy.",
+          "emotion": "Satisfied madness",
+          "brainrot_level": 666,
+          "tags": ["chaos", "mercy", "brainrot"]
+        },
+        {
+          "id": "JOKER-VL-006",
+          "filename": "the_graves_got_a_punchline.wav",
+          "title": "The Grave's Got a Punchline",
+          "duration_seconds": 5,
+          "transcript": "The grave's got a punchline... waiting.",
+          "emotion": "Ominous prophecy",
+          "brainrot_level": 555,
+          "tags": ["death", "punchline", "prophecy"]
+        }
+      ],
+      "status": "ACTIVE"
+    }
+  ],
+  
+  "voice_generation_protocol": {
+    "step_1": "Copy character from Grok share",
+    "step_2": "Extract 3-8 signature phrases from character",
+    "step_3": "Generate using AI voice synthesis (ElevenLabs, etc.)",
+    "step_4": "Apply character-appropriate effects (reverb, distortion, etc.)",
+    "step_5": "Save as .wav files in character's folder",
+    "step_6": "Update this manifest with track details"
+  },
+  
+  "suggested_effects": {
+    "joker": ["manic reverb", "echo on laughter", "pitch variance"],
+    "guest_666": ["discord notification sounds", "glitch effects", "void reverb"],
+    "skibidi": ["toilet flush sounds", "echo chamber", "porcelain resonance"],
+    "aztec": ["ancient chant reverb", "stone echo", "ritual atmosphere"]
+  },
+  
+  "total_tracks": "Awaiting character injection",
+  "total_duration_seconds": "Awaiting character injection",
+  "average_brainrot_level": "Awaiting character injection",
+  "guest_666_approval": "Pending character injection"
+}

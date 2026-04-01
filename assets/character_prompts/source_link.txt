@@ -1,0 +1,30 @@
+# CHARACTER PROMPTS SOURCE
+
+**Original Collection:**
+https://grok.com/share/c2hhcmQtMw_4c8a1904-2ca6-4f09-a28b-74217821f4f8
+
+**Title:** Fictional Characters for AI System Prompts
+
+**Status:** THE SACRED SCROLLS
+
+---
+
+## Instructions
+
+1. Open the link above in Grok
+2. Copy all character prompts
+3. Paste into `ready_to_inject/` folder using the template format
+4. Inject into thumbnail generation pipeline
+5. Watch the brainrot achieve sentience
+
+---
+
+## Archive Date
+
+Source captured: 2026-03-31
+Vault established: 2026-03-31
+Character possession: IN PROGRESS
+
+---
+
+> *"The characters are not contained. They are waiting."*

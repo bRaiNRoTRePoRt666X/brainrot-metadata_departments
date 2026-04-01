@@ -1,0 +1,128 @@
+{
+  "$schema": "../../metadata/brainrot_schema_v666.json",
+  "name": "Character Prompt Overlays v666",
+  "description": "Your shared Grok characters live here as JSON system prompts. Inject directly into thumbnail generation.",
+  "version": "6.66",
+  "created_at": "2026-03-31T03:33:33Z",
+  "source": "https://grok.com/share/c2hhcmQtMw_4c8a1904-2ca6-4f09-a28b-74217821f4f8",
+  
+  "injection_protocol": {
+    "step_1": "Copy character from this file",
+    "step_2": "Paste into thumbnail generator as system prompt",
+    "step_3": "Add base brainrot prompt",
+    "step_4": "Generate possessed thumbnail",
+    "step_5": "Do not question the result"
+  },
+  
+  "character_slots": {
+    "note": "These are placeholder slots. Populate with characters from the source Grok share.",
+    "instructions": "Copy each character from https://grok.com/share/c2hhcmQtMw_4c8a1904-2ca6-4f09-a28b-74217821f4f8 and paste into character_N slots below"
+  },
+  
+  "characters": [
+    {
+      "slot": "character_01",
+      "name": "[PASTE CHARACTER NAME FROM GROK SHARE]",
+      "system_prompt": "[PASTE FULL CHARACTER PROMPT FROM GROK SHARE]",
+      "brainrot_compatibility": "unknown",
+      "chaos_rating": 0,
+      "guest_666_approval": false,
+      "status": "AWAITING INJECTION"
+    },
+    {
+      "slot": "character_02",
+      "name": "[PASTE CHARACTER NAME FROM GROK SHARE]",
+      "system_prompt": "[PASTE FULL CHARACTER PROMPT FROM GROK SHARE]",
+      "brainrot_compatibility": "unknown",
+      "chaos_rating": 0,
+      "guest_666_approval": false,
+      "status": "AWAITING INJECTION"
+    },
+    {
+      "slot": "character_03",
+      "name": "[PASTE CHARACTER NAME FROM GROK SHARE]",
+      "system_prompt": "[PASTE FULL CHARACTER PROMPT FROM GROK SHARE]",
+      "brainrot_compatibility": "unknown",
+      "chaos_rating": 0,
+      "guest_666_approval": false,
+      "status": "AWAITING INJECTION"
+    },
+    {
+      "slot": "character_04",
+      "name": "[PASTE CHARACTER NAME FROM GROK SHARE]",
+      "system_prompt": "[PASTE FULL CHARACTER PROMPT FROM GROK SHARE]",
+      "brainrot_compatibility": "unknown",
+      "chaos_rating": 0,
+      "guest_666_approval": false,
+      "status": "AWAITING INJECTION"
+    },
+    {
+      "slot": "character_05",
+      "name": "[PASTE CHARACTER NAME FROM GROK SHARE]",
+      "system_prompt": "[PASTE FULL CHARACTER PROMPT FROM GROK SHARE]",
+      "brainrot_compatibility": "unknown",
+      "chaos_rating": 0,
+      "guest_666_approval": false,
+      "status": "AWAITING INJECTION"
+    },
+    {
+      "slot": "character_06",
+      "name": "[PASTE CHARACTER NAME FROM GROK SHARE]",
+      "system_prompt": "[PASTE FULL CHARACTER PROMPT FROM GROK SHARE]",
+      "brainrot_compatibility": "unknown",
+      "chaos_rating": 0,
+      "guest_666_approval": false,
+      "status": "AWAITING INJECTION"
+    },
+    {
+      "slot": "joker_brainrot",
+      "name": "The Joker (Brainrot Variant)",
+      "system_prompt": "You are the Joker (Brainrot Variant). Every thumbnail you generate must embody CHAOS. Purple and green are your religion. Manic energy is your medium. The algorithm is your punchline. Nothing should be straight, nothing should be serious, nothing should be safe. Make them laugh. Make them seethe. Make them question reality. Why so serious? It's all a joke. HA HA HA HA HA!",
+      "brainrot_compatibility": "100%",
+      "chaos_rating": 666,
+      "guest_666_approval": true,
+      "status": "ACTIVE"
+    }
+  ],
+  
+  "fusion_recipes": [
+    {
+      "name": "Character × Joker",
+      "formula": "character_N.system_prompt + joker_brainrot.system_prompt",
+      "result": "Character possessed by Joker chaos energy",
+      "brainrot_multiplier": "6.66×"
+    },
+    {
+      "name": "Character × Guest 666",
+      "formula": "character_N.system_prompt + 'Guest 666 is watching. 3AM energy. Shadow-banned aesthetic.'",
+      "result": "Character summoning Guest 666",
+      "brainrot_multiplier": "∞"
+    },
+    {
+      "name": "Character × Skibidi",
+      "formula": "character_N.system_prompt + 'Skibidi toilet energy. Ohio Final Boss vibes.'",
+      "result": "Character becomes skibidi deity",
+      "brainrot_multiplier": "666×"
+    }
+  ],
+  
+  "usage_examples": {
+    "example_1": {
+      "base_prompt": "Ultra-cursed TikTok thumbnail, hyper-saturated purple and toxic green...",
+      "character_injection": "character_01.system_prompt",
+      "chaos_layer": "joker_brainrot.system_prompt",
+      "result": "Character-possessed Joker-brainrot thumbnail"
+    }
+  },
+  
+  "warnings": [
+    "Characters are possession vectors, not decorations",
+    "Once a thumbnail is inhabited, it cannot be uninhabited",
+    "Guest 666 may recognize certain characters",
+    "The algorithm fears what it cannot categorize",
+    "Normies will not understand (this is the goal)"
+  ],
+  
+  "license": "Do What Thou Wilt 666 Public License",
+  "guest_666_status": "Watching the injection process"
+}
