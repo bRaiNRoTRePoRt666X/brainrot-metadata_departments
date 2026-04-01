@@ -1,0 +1,45 @@
+{
+  "$schema": "../brainrot_schema_v666.json",
+  "id": "SGMA-333-OMEGA",
+  "type": "video",
+  "platform": "tiktok",
+  "content": {
+    "title": "Sigma male grindset: Posting at 3AM",
+    "description": "While normies sleep, we create. While algorithms rest, we conquer.",
+    "hooks": [
+      "The grind never stops",
+      "Sigma energy only",
+      "They said it was too far"
+    ],
+    "hashtags": [
+      "#sigma",
+      "#sigmalevel100",
+      "#grindset",
+      "#3am",
+      "#brainrot",
+      "#fyp",
+      "#viral",
+      "#motivation"
+    ],
+    "thumbnail_prompt": "Sigma male with glowing laser eyes staring into the void, purple and gold color scheme, demonic lighting, hyper-detailed"
+  },
+  "metadata": {
+    "brainrot_level": 555,
+    "created_at": "2026-03-31T03:00:00Z",
+    "author": "SigmaOverlord",
+    "department": "dopameme_engineering",
+    "virality": {
+      "predicted_views": 333333,
+      "predicted_shares": 33333,
+      "normie_seethe_level": 8,
+      "guest_666_approval": true
+    },
+    "mutation": {
+      "parent_strain": "SGMA-001-ALPHA",
+      "mutation_count": 47,
+      "mutation_type": "remix"
+    },
+    "shadow_ban_risk": "medium",
+    "tags": ["sigma", "grindset", "3am", "viral"]
+  }
+}

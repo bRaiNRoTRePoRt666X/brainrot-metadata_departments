@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated content (keep the folders, ignore generated files)
+assets/thumbnails/*.png
+assets/thumbnails/*.jpg
+assets/thumbnails/*.webp
+assets/soundboard/*.wav
+assets/soundboard/*.mp3
+
+# Logs
+*.log
+logs/
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
+# Test coverage
+.coverage
+htmlcov/

@@ -1,0 +1,190 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/bRaiNRoTRePoRt666X/brainrot-metadata_departments/metadata/brainrot_schema_v666.json",
+  "title": "Brainrot Metadata Schema v666",
+  "description": "The One Schema to rule them all. Every viral format known to man (and demon).",
+  "version": "6.66",
+  "type": "object",
+  "required": ["id", "type", "platform", "content", "metadata"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for this brainrot strain",
+      "pattern": "^[A-Z]{3,6}-[0-9]{3}-[A-Z]+$",
+      "examples": ["SKBD-666-ALPHA", "SGMA-333-OMEGA"]
+    },
+    "type": {
+      "type": "string",
+      "enum": ["meme", "video", "thumbnail", "caption", "sound", "hashtag", "ritual"],
+      "description": "The type of brainrot content"
+    },
+    "platform": {
+      "type": "string",
+      "enum": ["tiktok", "instagram", "youtube", "x", "discord", "roblox", "universal"],
+      "description": "Primary target platform"
+    },
+    "content": {
+      "type": "object",
+      "required": ["title"],
+      "properties": {
+        "title": {
+          "type": "string",
+          "maxLength": 100,
+          "description": "The title/caption that will haunt viewers"
+        },
+        "description": {
+          "type": "string",
+          "maxLength": 2000,
+          "description": "Extended description (optional but cursed)"
+        },
+        "hooks": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Attention-grabbing opening lines",
+          "maxItems": 6
+        },
+        "hashtags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Hashtags for algorithm summoning",
+          "maxItems": 30
+        },
+        "thumbnail_prompt": {
+          "type": "string",
+          "description": "Prompt for generating demonic thumbnails"
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "required": ["brainrot_level", "created_at"],
+      "properties": {
+        "brainrot_level": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 666,
+          "description": "How unhinged is this content? (1-666)"
+        },
+        "created_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When this strain was born"
+        },
+        "author": {
+          "type": "string",
+          "description": "The degenerate who created this"
+        },
+        "department": {
+          "type": "string",
+          "enum": [
+            "tiktok_algorithm_sabotage",
+            "meme_mutation_lab",
+            "dopameme_engineering",
+            "skibidi_chronicle",
+            "shadow_ban_survival",
+            "guest_666_summoning",
+            "aztec_brainrot_codex"
+          ],
+          "description": "Which department spawned this"
+        },
+        "virality": {
+          "type": "object",
+          "properties": {
+            "predicted_views": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "predicted_shares": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "normie_seethe_level": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 10
+            },
+            "guest_666_approval": {
+              "type": "boolean",
+              "description": "Has Guest 666 blessed this content?"
+            }
+          }
+        },
+        "mutation": {
+          "type": "object",
+          "properties": {
+            "parent_strain": {
+              "type": "string",
+              "description": "ID of the parent meme strain"
+            },
+            "mutation_count": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "mutation_type": {
+              "type": "string",
+              "enum": ["cross_platform", "remix", "parody", "fusion", "spontaneous"]
+            }
+          }
+        },
+        "shadow_ban_risk": {
+          "type": "string",
+          "enum": ["none", "low", "medium", "high", "guaranteed"],
+          "description": "Likelihood of algorithmic suppression"
+        },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Internal tags for organization"
+        }
+      }
+    },
+    "assets": {
+      "type": "object",
+      "properties": {
+        "thumbnail_path": { "type": "string" },
+        "video_path": { "type": "string" },
+        "audio_path": { "type": "string" },
+        "template_id": { "type": "string" }
+      }
+    },
+    "performance": {
+      "type": "object",
+      "properties": {
+        "views": { "type": "integer", "minimum": 0 },
+        "likes": { "type": "integer", "minimum": 0 },
+        "shares": { "type": "integer", "minimum": 0 },
+        "comments": { "type": "integer", "minimum": 0 },
+        "completion_rate": { "type": "number", "minimum": 0, "maximum": 1 },
+        "rewatch_rate": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    }
+  },
+  "examples": [
+    {
+      "id": "SKBD-666-ALPHA",
+      "type": "video",
+      "platform": "tiktok",
+      "content": {
+        "title": "POV: The toilet sings back",
+        "description": "You thought it was over. It never is.",
+        "hooks": ["Wait for it...", "This shouldn't exist", "3AM energy only"],
+        "hashtags": ["#skibidi", "#cursed", "#3am", "#fyp", "#brainrot"],
+        "thumbnail_prompt": "A toilet with glowing eyes singing into a microphone, purple smoke, demonic lighting"
+      },
+      "metadata": {
+        "brainrot_level": 666,
+        "created_at": "2026-03-31T03:33:33Z",
+        "author": "Guest666",
+        "department": "skibidi_chronicle",
+        "virality": {
+          "predicted_views": 666666,
+          "predicted_shares": 66666,
+          "normie_seethe_level": 10,
+          "guest_666_approval": true
+        },
+        "shadow_ban_risk": "high",
+        "tags": ["skibidi", "toilet", "cursed", "viral"]
+      }
+    }
+  ]
+}
