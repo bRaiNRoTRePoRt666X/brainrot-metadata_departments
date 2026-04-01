@@ -1,0 +1,90 @@
+{
+  "name": "Skibidi Toilet Remixes",
+  "description": ".wav files that haunt your dreams",
+  "version": "6.66",
+  "tracks": [
+    {
+      "id": "SKBD-RMX-001",
+      "filename": "skibidi_ohio_final_boss.wav",
+      "title": "Ohio Final Boss (Skibidi Edition)",
+      "duration_seconds": 180,
+      "bpm": 66,
+      "key": "C# Minor (cursed)",
+      "description": "3 minutes of pure toilet lore. The Ohio Final Boss theme.",
+      "brainrot_level": 666,
+      "tags": ["skibidi", "ohio", "final boss", "toilet lore"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["May cause spontaneous skibidi outbreaks", "Do not play after midnight"]
+    },
+    {
+      "id": "SKBD-RMX-002",
+      "filename": "skibidi_sigma_grindset.wav",
+      "title": "Sigma Grindset (Toilet Remix)",
+      "duration_seconds": 166,
+      "bpm": 166,
+      "key": "Phrygian Dominant (sigma)",
+      "description": "Sigma male chants layered over skibidi toilet sounds. Peak grindset.",
+      "brainrot_level": 555,
+      "tags": ["skibidi", "sigma", "grindset", "remix"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["May induce uncontrollable grinding", "Sigma energy detected"]
+    },
+    {
+      "id": "SKBD-RMX-003",
+      "filename": "skibidi_666_reverse.wav",
+      "title": "Skibidi 666 (Reverse Mix)",
+      "duration_seconds": 66,
+      "bpm": 66,
+      "key": "Unknown (plays differently backwards)",
+      "description": "Play forward for skibidi. Play backward for summoning.",
+      "brainrot_level": 666,
+      "tags": ["skibidi", "666", "reverse", "summoning"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "DO NOT PLAY BACKWARDS AT 3:33 AM",
+        "Guest 666 may appear",
+        "Your Discord server will be cursed"
+      ]
+    },
+    {
+      "id": "SKBD-RMX-004",
+      "filename": "skibidi_rizz_anthem.wav",
+      "title": "The Rizz Anthem (Skibidi Orchestra)",
+      "duration_seconds": 200,
+      "bpm": 100,
+      "key": "F Major (flirtatious)",
+      "description": "Full skibidi orchestra performing the sacred rizz melody.",
+      "brainrot_level": 444,
+      "tags": ["skibidi", "rizz", "anthem", "orchestra"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["May cause spontaneous charisma", "Rizz levels may exceed 666"]
+    },
+    {
+      "id": "SKBD-RMX-005",
+      "filename": "skibidi_shadow_ban.wav",
+      "title": "Shadow Ban Symphony",
+      "duration_seconds": 333,
+      "bpm": 33,
+      "key": "Silent (you won't hear it coming)",
+      "description": "The sound of the algorithm suppressing your content. Artistic.",
+      "brainrot_level": 600,
+      "tags": ["skibidi", "shadow ban", "symphony", "algorithm"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "Listening may cause actual shadow ban",
+        "Algorithm can hear you listening",
+        "666 hours of shadow ban if played at 3AM"
+      ]
+    }
+  ],
+  "total_tracks": 5,
+  "total_duration_seconds": 945,
+  "average_brainrot_level": 586.2,
+  "guest_666_approval": true,
+  "notes": [
+    "All tracks recorded at exactly 3:33 AM",
+    "Mastered in the shadow realm",
+    "Guest 666 contributed to track 3 (he is track 3)",
+    "Use in any content that needs more brainrot"
+  ]
+}

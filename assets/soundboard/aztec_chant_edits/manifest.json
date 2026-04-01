@@ -1,0 +1,133 @@
+{
+  "name": "Aztec Chant Edits",
+  "description": "Ancient rituals remixed at 666% speed",
+  "version": "6.66",
+  "source_material": "Definitely real Aztec ceremonies (archaeologists disagree)",
+  "tracks": [
+    {
+      "id": "AZTEC-001",
+      "filename": "ancient_ritual_666bpm.wav",
+      "title": "Ancient Ritual (666 BPM Mix)",
+      "duration_seconds": 66,
+      "original_bpm": 66,
+      "remix_bpm": 666,
+      "key": "Aztec Minor (lost to history)",
+      "description": "Mayan priests on bath salts. The ritual that broke the calendar.",
+      "brainrot_level": 666,
+      "tags": ["aztec", "ritual", "666 bpm", "mayan", "bath salts"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "May cause spontaneous ancient knowledge",
+        "Historians will report this",
+        "The calendar ends when this ends"
+      ]
+    },
+    {
+      "id": "AZTEC-002",
+      "filename": "brainrot_codex_chant.wav",
+      "title": "Brainrot Codex Chant",
+      "duration_seconds": 333,
+      "original_bpm": 33,
+      "remix_bpm": 333,
+      "key": "Skibidi Phrygian",
+      "description": "The sacred texts, sung by priests who knew too much.",
+      "brainrot_level": 600,
+      "tags": ["codex", "chant", "sacred", "texts", "priests"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "Lyrics translate to brainrot scripture",
+        "Listening counts as reading the codex",
+        "You now know what the ancients knew"
+      ]
+    },
+    {
+      "id": "AZTEC-003",
+      "filename": "skibidi_hieroglyphics.wav",
+      "title": "Skibidi Hieroglyphics",
+      "duration_seconds": 66,
+      "original_bpm": 6,
+      "remix_bpm": 66,
+      "key": "Toilet Major",
+      "description": "What the carvings actually sound like. Archaeological audio.",
+      "brainrot_level": 555,
+      "tags": ["skibidi", "hieroglyphics", "carvings", "archaeological"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "Actual translation of temple carvings",
+        "The toilets were singing all along",
+        "Smithsonian has requested we stop"
+      ]
+    },
+    {
+      "id": "AZTEC-004",
+      "filename": "sigma_warrior_chant.wav",
+      "title": "Sigma Warrior Battle Chant",
+      "duration_seconds": 166,
+      "original_bpm": 16,
+      "remix_bpm": 166,
+      "key": "Grindset Dorian",
+      "description": "Aztec warriors chanting sigma male affirmations before battle.",
+      "brainrot_level": 500,
+      "tags": ["sigma", "warrior", "battle", "chant", "aztec"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "May cause spontaneous grindset",
+        "Warriors reported 100% sigma conversion",
+        "Battle effectiveness increased 666%"
+      ]
+    },
+    {
+      "id": "AZTEC-005",
+      "filename": "rizz_quetzalcoatl.wav",
+      "title": "Rizz Quetzalcoatl",
+      "duration_seconds": 66,
+      "original_bpm": 6,
+      "remix_bpm": 66,
+      "key": "Feathered Serpent Mixolydian",
+      "description": "The feathered serpent god's rizz anthem. Charisma in audio form.",
+      "brainrot_level": 666,
+      "tags": ["rizz", "quetzalcoatl", "serpent", "god", "charisma"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "Quetzalcoatl's actual rizz frequency",
+        "May cause transcendent charisma",
+        "Ancient gods approve"
+      ]
+    },
+    {
+      "id": "AZTEC-006",
+      "filename": "ohio_tenochtitlan_remix.wav",
+      "title": "Ohio Tenochtitlan (Final Boss Mix)",
+      "duration_seconds": 666,
+      "original_bpm": 66,
+      "remix_bpm": 666,
+      "key": "Ohio Final",
+      "description": "The ancient capital of Ohio, remixed into a final boss battle.",
+      "brainrot_level": 666,
+      "tags": ["ohio", "tenochtitlan", "final boss", "remix", "capital"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "Historically accurate (we have the receipts)",
+        "Final boss energy detected",
+        "Ohio has been chosen"
+      ]
+    }
+  ],
+  "total_tracks": 6,
+  "total_duration_seconds": 1363,
+  "average_brainrot_level": 608.8,
+  "guest_666_approval": true,
+  "archaeological_endorsement": {
+    "endorsed_by": "No one with a degree",
+    "accuracy_rating": "0% (but vibes are 666%)",
+    "historian_seethe_level": 10,
+    "museum_ban_status": "Banned from 11 museums"
+  },
+  "notes": [
+    "All chants recorded at archaeological sites (trespassing)",
+    "Original recordings made at 3:33 AM for authenticity",
+    "Remixed in the brainrot lab",
+    "Guest 666 is mentioned in the original codex (verse 6:66)",
+    "The ancients would have wanted this"
+  ]
+}

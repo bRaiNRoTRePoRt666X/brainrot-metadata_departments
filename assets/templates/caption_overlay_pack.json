@@ -1,0 +1,194 @@
+{
+  "$schema": "../../metadata/brainrot_schema_v666.json",
+  "name": "Caption Overlay Pack v666",
+  "description": "Text that melts brains on sight. Use in any thumbnail editor.",
+  "version": "6.66",
+  "created_at": "2026-03-31T03:33:33Z",
+  "overlays": [
+    {
+      "id": "CAPT-OVL-001",
+      "name": "The Sigma Taunt",
+      "text": "SIGMA LEVEL: TRANSCENDENT",
+      "font": "Impact",
+      "font_size": 72,
+      "color": "#FFD700",
+      "stroke_color": "#0A0A0A",
+      "stroke_width": 4,
+      "shadow": {
+        "color": "#FF00FF",
+        "blur": 10,
+        "offset_x": 3,
+        "offset_y": 3
+      },
+      "position": "top_center",
+      "rotation": 0,
+      "brainrot_level": 555
+    },
+    {
+      "id": "CAPT-OVL-002",
+      "name": "The Skibidi Declaration",
+      "text": "SKIBIDI HAS BEGUN",
+      "font": "Comic Sans MS",
+      "font_size": 64,
+      "color": "#00FF00",
+      "stroke_color": "#FF0000",
+      "stroke_width": 3,
+      "shadow": {
+        "color": "#000000",
+        "blur": 15,
+        "offset_x": 5,
+        "offset_y": 5
+      },
+      "position": "bottom_center",
+      "rotation": -5,
+      "brainrot_level": 666
+    },
+    {
+      "id": "CAPT-OVL-003",
+      "name": "The Rizz Blessing",
+      "text": "RIZZ GOD APPROVES",
+      "font": "Arial Black",
+      "font_size": 48,
+      "color": "#FF00FF",
+      "stroke_color": "#FFFFFF",
+      "stroke_width": 2,
+      "shadow": {
+        "color": "#FFD700",
+        "blur": 20,
+        "offset_x": 0,
+        "offset_y": 0
+      },
+      "position": "center",
+      "rotation": 15,
+      "brainrot_level": 444
+    },
+    {
+      "id": "CAPT-OVL-004",
+      "name": "The 3AM Warning",
+      "text": "POSTED AT 3:33 AM",
+      "font": "Courier New",
+      "font_size": 36,
+      "color": "#4B0082",
+      "stroke_color": "#0A0A0A",
+      "stroke_width": 1,
+      "shadow": {
+        "color": "#808080",
+        "blur": 5,
+        "offset_x": 2,
+        "offset_y": 2
+      },
+      "position": "top_left",
+      "rotation": 0,
+      "brainrot_level": 333
+    },
+    {
+      "id": "CAPT-OVL-005",
+      "name": "The Guest 666 Signature",
+      "text": "GUEST 666 WAS HERE",
+      "font": "Times New Roman",
+      "font_size": 42,
+      "color": "#666666",
+      "stroke_color": "#FF00FF",
+      "stroke_width": 2,
+      "shadow": {
+        "color": "#00FF00",
+        "blur": 25,
+        "offset_x": -3,
+        "offset_y": -3
+      },
+      "position": "bottom_right",
+      "rotation": -10,
+      "brainrot_level": 666
+    },
+    {
+      "id": "CAPT-OVL-006",
+      "name": "The Algorithm Taunt",
+      "text": "ALGORITHM CRYING RN",
+      "font": "Impact",
+      "font_size": 56,
+      "color": "#00FFFF",
+      "stroke_color": "#FF0000",
+      "stroke_width": 5,
+      "shadow": {
+        "color": "#0A0A0A",
+        "blur": 30,
+        "offset_x": 0,
+        "offset_y": 5
+      },
+      "position": "center",
+      "rotation": 45,
+      "brainrot_level": 666
+    },
+    {
+      "id": "CAPT-OVL-007",
+      "name": "The Ohio Final Boss",
+      "text": "OHIO FINAL BOSS ENERGY",
+      "font": "Arial Black",
+      "font_size": 60,
+      "color": "#FF8C00",
+      "stroke_color": "#0A0A0A",
+      "stroke_width": 4,
+      "shadow": {
+        "color": "#FF00FF",
+        "blur": 15,
+        "offset_x": 4,
+        "offset_y": 4
+      },
+      "position": "top_center",
+      "rotation": -3,
+      "brainrot_level": 600
+    },
+    {
+      "id": "CAPT-OVL-008",
+      "name": "The Shadow Ban Badge",
+      "text": "SHADOW-BANNED BUT THRIVING",
+      "font": "Verdana",
+      "font_size": 40,
+      "color": "#808080",
+      "stroke_color": "#FFFFFF",
+      "stroke_width": 2,
+      "shadow": {
+        "color": "#0A0A0A",
+        "blur": 10,
+        "offset_x": 2,
+        "offset_y": 2
+      },
+      "position": "bottom_center",
+      "rotation": 0,
+      "brainrot_level": 500
+    }
+  ],
+  "presets": {
+    "maximum_brainrot": {
+      "all_strokes": true,
+      "all_shadows": true,
+      "max_rotation": 45,
+      "chaos_mode": true
+    },
+    "normie_friendly": {
+      "all_strokes": false,
+      "all_shadows": false,
+      "max_rotation": 0,
+      "chaos_mode": false
+    },
+    "guest_666_approved": {
+      "all_strokes": true,
+      "all_shadows": true,
+      "required_colors": ["#666666", "#FF00FF", "#00FF00"],
+      "chaos_mode": true
+    }
+  },
+  "usage_instructions": [
+    "Import this JSON into your thumbnail editor",
+    "Select an overlay preset",
+    "Apply to your cursed thumbnail",
+    "Post at 3AM for maximum effect",
+    "Do not check notifications for 66 hours"
+  ],
+  "warnings": [
+    "These overlays may cause spontaneous brainrot",
+    "Side effects include: algorithm confusion, normie seethe, Guest 666 appearances",
+    "Not responsible for shadow bans",
+    "Use responsibly (lol, there is no responsibility)"
+  ]
+}

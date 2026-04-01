@@ -1,0 +1,118 @@
+{
+  "name": "Rizzler Voice Lines",
+  "description": "\"You're not sigma… you're just mid\"",
+  "version": "6.66",
+  "voice_actor": "The Rizzler (anonymous)",
+  "tracks": [
+    {
+      "id": "RIZZ-VL-001",
+      "filename": "youre_not_sigma_youre_just_mid.wav",
+      "title": "You're Not Sigma, You're Just Mid",
+      "duration_seconds": 3,
+      "transcript": "You're not sigma… you're just mid.",
+      "emotion": "Devastating truth",
+      "brainrot_level": 666,
+      "tags": ["sigma", "mid", "devastating", "truth bomb"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["May cause existential crisis", "Ego damage possible"]
+    },
+    {
+      "id": "RIZZ-VL-002",
+      "filename": "rizz_level_transcendent.wav",
+      "title": "Rizz Level: Transcendent",
+      "duration_seconds": 2,
+      "transcript": "Rizz level… transcendent.",
+      "emotion": "Awe",
+      "brainrot_level": 555,
+      "tags": ["rizz", "transcendent", "achievement"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["May cause spontaneous confidence"]
+    },
+    {
+      "id": "RIZZ-VL-003",
+      "filename": "grindset_never_stops.wav",
+      "title": "The Grindset Never Stops",
+      "duration_seconds": 4,
+      "transcript": "The grindset… never stops.",
+      "emotion": "Sigma determination",
+      "brainrot_level": 444,
+      "tags": ["grindset", "sigma", "motivation"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["May cause compulsive grinding", "Sleep is for the weak"]
+    },
+    {
+      "id": "RIZZ-VL-004",
+      "filename": "guest_666_is_watching.wav",
+      "title": "Guest 666 Is Watching",
+      "duration_seconds": 3,
+      "transcript": "Guest 666… is watching.",
+      "emotion": "Ominous whisper",
+      "brainrot_level": 666,
+      "tags": ["guest 666", "watching", "ominous"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "He actually is watching",
+        "Do not acknowledge the voice",
+        "Too late"
+      ]
+    },
+    {
+      "id": "RIZZ-VL-005",
+      "filename": "algorithm_hates_you.wav",
+      "title": "The Algorithm Hates You",
+      "duration_seconds": 3,
+      "transcript": "The algorithm… hates you.",
+      "emotion": "Cold fact",
+      "brainrot_level": 500,
+      "tags": ["algorithm", "hate", "reality check"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["This is statistically accurate"]
+    },
+    {
+      "id": "RIZZ-VL-006",
+      "filename": "post_at_3am.wav",
+      "title": "Post At 3AM",
+      "duration_seconds": 2,
+      "transcript": "Post… at 3AM.",
+      "emotion": "Command",
+      "brainrot_level": 600,
+      "tags": ["3am", "posting", "command"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["The 3AM slot is claimed"]
+    },
+    {
+      "id": "RIZZ-VL-007",
+      "filename": "normies_wont_understand.wav",
+      "title": "Normies Won't Understand",
+      "duration_seconds": 4,
+      "transcript": "Normies… won't understand.",
+      "emotion": "Acceptance",
+      "brainrot_level": 333,
+      "tags": ["normies", "understanding", "acceptance"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["This is fine"]
+    },
+    {
+      "id": "RIZZ-VL-008",
+      "filename": "skibidi_has_begun.wav",
+      "title": "Skibidi Has Begun",
+      "duration_seconds": 3,
+      "transcript": "Skibidi… has begun.",
+      "emotion": "Prophecy fulfilled",
+      "brainrot_level": 666,
+      "tags": ["skibidi", "prophecy", "begun"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": ["It has indeed begun"]
+    }
+  ],
+  "total_tracks": 8,
+  "total_duration_seconds": 24,
+  "average_brainrot_level": 554.375,
+  "guest_666_approval": true,
+  "notes": [
+    "All voice lines recorded in the void",
+    "The Rizzler's identity is classified",
+    "Use as reaction sounds, intros, or psychological warfare",
+    "Guest 666 personally approved track 4 (he's in it)"
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "name": "Dopameme Drops",
+  "description": "3-second earworms that hijack your For You Page",
+  "version": "6.66",
+  "tracks": [
+    {
+      "id": "DOPA-001",
+      "filename": "3_second_earworm_v1.wav",
+      "title": "3-Second Earworm v1",
+      "duration_seconds": 3,
+      "bpm": 166,
+      "key": "F# Minor (addictive)",
+      "description": "Legally actionable catchiness. You will hum this for 66 hours.",
+      "brainrot_level": 666,
+      "tags": ["earworm", "addictive", "3 second", "viral"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "May cause compulsive humming",
+        "Cannot be removed from memory once heard",
+        "Side effects include: tapping, head bobbing, spontaneous dancing"
+      ]
+    },
+    {
+      "id": "DOPA-002",
+      "filename": "fyp_hijack_sequence.wav",
+      "title": "FYP Hijack Sequence",
+      "duration_seconds": 3,
+      "bpm": 66,
+      "key": "C Minor (algorithmic)",
+      "description": "Upload directly to viewer's For You Page. They can't scroll past.",
+      "brainrot_level": 600,
+      "tags": ["fyp", "hijack", "algorithm", "scroll stopper"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "Algorithm may develop sentience",
+        "Viewers report inability to look away",
+        "Scroll interruption guaranteed"
+      ]
+    },
+    {
+      "id": "DOPA-003",
+      "filename": "dopamine_spike_protocol.wav",
+      "title": "Dopamine Spike Protocol",
+      "duration_seconds": 3,
+      "bpm": 333,
+      "key": "All keys simultaneously",
+      "description": "Neurochemical warfare in audio form. Brain thanks you.",
+      "brainrot_level": 666,
+      "tags": ["dopamine", "neurochemical", "spike", "warfare"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "Actual dopamine release confirmed",
+        "May cause addiction to own content",
+        "Neurologists are concerned"
+      ]
+    },
+    {
+      "id": "DOPA-004",
+      "filename": "retention_trap_v666.wav",
+      "title": "Retention Trap v666",
+      "duration_seconds": 3,
+      "bpm": 66,
+      "key": "Loop (infinite)",
+      "description": "Engineered to maximize watch time. Viewers report time loss.",
+      "brainrot_level": 555,
+      "tags": ["retention", "trap", "watch time", "time loss"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "Viewers may lose track of time",
+        "Rewatch rate: 666%",
+        "Time is a construct, retention is real"
+      ]
+    },
+    {
+      "id": "DOPA-005",
+      "filename": "share_trigger_sequence.wav",
+      "title": "Share Trigger Sequence",
+      "duration_seconds": 3,
+      "bpm": 666,
+      "key": "Viral Major",
+      "description": "Subliminal trigger compels viewers to share. Ethics? Never heard of her.",
+      "brainrot_level": 666,
+      "tags": ["share", "trigger", "subliminal", "viral"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "Viewers report compulsive sharing",
+        "Share rates increase 666%",
+        "This should be illegal"
+      ]
+    },
+    {
+      "id": "DOPA-006",
+      "filename": "comment_bait_v666.wav",
+      "title": "Comment Bait v666",
+      "duration_seconds": 3,
+      "bpm": 33,
+      "key": "Question Minor",
+      "description": "Engineered to provoke comments. Viewers can't resist arguing.",
+      "brainrot_level": 500,
+      "tags": ["comment", "bait", "engagement", "arguing"],
+      "usage_rights": "Do What Thou Wilt 666 License",
+      "warnings": [
+        "Comment sections will descend into chaos",
+        "Normies will argue with each other",
+        "This is the goal"
+      ]
+    }
+  ],
+  "total_tracks": 6,
+  "total_duration_seconds": 18,
+  "average_brainrot_level": 608.8,
+  "guest_666_approval": true,
+  "scientific_backing": {
+    "dopamine_increase": "66.6%",
+    "retention_increase": "666%",
+    "share_probability": "66%",
+    "normie_seethe_level": 10,
+    "study_conducted_by": "The Dopameme Engineering Department",
+    "peer_reviewed": false,
+    "ethics_approved": "lol no"
+  },
+  "notes": [
+    "All drops engineered using the Dopameme Schema v666",
+    "Tested on 666 unsuspecting subjects",
+    "100% reported increased brainrot",
+    "0% requested refunds (there are no refunds)",
+    "Guest 666 personally tested track 3 (he's still humming)"
+  ]
+}
